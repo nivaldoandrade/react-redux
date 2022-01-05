@@ -17,8 +17,8 @@ Criação de uma simples aplicação de carrinho de compra para estudar e coloca
   # Instalar as dependências dentro da pasta clonada
   yarn
 
-	#Iniciar o JSON-SERVER
-	yarn server
+  # Iniciar o JSON-SERVER
+  yarn server
 
   # Iniciar a aplicação
   yarn start
